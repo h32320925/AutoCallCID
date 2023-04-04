@@ -1,4 +1,4 @@
-# Auto Call Skype to obtain CID
+# Auto call skype to obtain CID
 
 
 
